@@ -1,0 +1,7 @@
+Postgresql data:
+
+database = database1
+username= postgres
+password = postgres123
+host=localhost
+port=5432
